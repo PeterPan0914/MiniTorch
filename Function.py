@@ -1,6 +1,6 @@
 class Function:
-    def __init__(self,inputs) -> None:
-        self.inputs = inputs
+    def __init__(self) -> None:
+        self.inputs = []
 
     def forward(self):
         pass
